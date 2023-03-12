@@ -1,0 +1,72 @@
+{
+  "Employee": [
+    {
+      "ImageSrc": null,
+      "ImageTitle": "9216.jpg",
+      "EmployeeId": 9216,
+      "Name": "Md Shaown Khalifa",
+      "Designation": "Manager",
+      "PhoneNo": "01200000000",
+      "Age": "26",
+      "NationalId": "261425632",
+      "Email": "mdfaruk63@gmail.com",
+      "Address": "Muladi",
+      "image": null,
+      "Gender": "Male",
+      "City": "Barishal",
+      "Country": "BD",
+      "Date": "2022-08-23T00:00:00+06:00"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "9219.png",
+      "EmployeeId": 9219,
+      "Name": "Amena",
+      "Designation": "Cashier",
+      "PhoneNo": "01200000000",
+      "Age": "27",
+      "NationalId": "261425632",
+      "Email": "amena@gmail.com",
+      "Address": "Demra",
+      "image": null,
+      "Gender": "Female",
+      "City": "Barisal",
+      "Country": "BD",
+      "Date": "2019-01-29T00:00:00"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "1269216.jpg",
+      "EmployeeId": 1269216,
+      "Name": "Md Faruk Hossain",
+      "Designation": "Manager",
+      "PhoneNo": "01700000000",
+      "Age": "26",
+      "NationalId": "000000000000",
+      "Email": "faruk63@gmail.com",
+      "Address": "Mirpur",
+      "image": null,
+      "Gender": "Male",
+      "City": "Dhaka",
+      "Country": "BD",
+      "Date": "2022-08-23T00:00:00+06:00"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "5.jpeg",
+      "EmployeeId": 5,
+      "Name": "asad",
+      "Designation": "Manager",
+      "PhoneNo": "0144",
+      "Age": "45",
+      "NationalId": "4",
+      "Email": "as@gmail.com",
+      "Address": "dhaka",
+      "image": null,
+      "Gender": "Female",
+      "City": "dhaka",
+      "Country": "dhaka",
+      "Date": "2023-03-09T00:00:00"
+    }
+  ]
+}
